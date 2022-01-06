@@ -3,6 +3,49 @@ layout: page
 title: assignments
 ---
 
+1. week
+{:toc}
+
+# Readings
+
+There are four books for purchase:
+
+1. Britto, Lina. *Marijuana Boom: The Rise and Fall of Colombia's First Drug
+   Paradise*. Berkeley: University of California Press, 2020.
+
+1. de la Cadena, Marisol. *Earth Beings: Ecologies of Practice across Andean
+   Worlds*. Durham: Duke University Press, 2015.
+
+2. Grandin, Greg. *The Blood of Guatemala: A History of Race and Nation*.
+   Durham: Duke University Press, 2000.
+
+2. Gutierrez Aguilar, Rachel. *Rhythms of the Pachakuti: Indigenous Uprising
+   and State Power in Bolivia*. Durham: Duke University Press, 2014.
+
+Additional readings will be available from the library's website or on Canvas.
+
+# Films
+
+We will watch the following films this semester:
+
+1. *La llorona* (2021). Director: Jayro Bustamante.  (Guatemala)
+   [(Amazon)](https://www.amazon.com/Llorona-Mar%C3%ADa-Mercedes-Coroy/dp/B08WH6DDBM/ref=sr_1_5?crid=Y5LJM322PITW&keywords=la+llorona+film&qid=1641391086&sprefix=la+llorona+film%2Caps%2C78&sr=8-5)
+
+2. *Ixcanul* (2015). Director: Jayro Bustamante. (Guatemala)  
+
+3. *Birds of Passage* (2018). Director: Cristina Gallego and Ciro Guerra.
+   (Colombia)
+
+4. *Embrace of the Serpent* (2015). Director: Ciro Guerra. (Colombia)
+
+5. *Opening the Earth: The Potato King* (2020). Director: Eric Ebner. (United
+   States/Peru)
+
+6. *Cocalero* (2006). Director: Alejandro Landes. (Bolivia)
+
+# Assignments
+
+
 1. **Participation. (15%)**
 
    This course requires your active participation in film

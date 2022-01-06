@@ -5,7 +5,7 @@ title: syllabus
 
 
 Latin American History at the Movies  
-Spring 2020  
+Spring 2022  
 
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
@@ -29,14 +29,18 @@ in the region perceived themselves, and were represented by others. Film
 propaganda tool, a medium of artistic expression, and a driving force of
 national identity. 
 
-In this class, we will focus on how important themes in
-the history of Modern Latin America have been portrayed on screen--
-urbanization, migrations, revolutions, narcotrafficking, nationalism, and
-more. While films will be a central component of our approach to the
+In this class, we will focus on portrayals of Indigenous peoples in films from
+and about Latin America. In particular, we will use the films to analyze
+Indigenous responses to and participation in the historical processes of
+modernity. What does it mean to be modern? Who defines the cultures of
+modernity and to what end? How have Indigenous people sought autonomy over
+their own experiences of modernity?  
+
+While films will be a central component of our approach to the
 region's history, course readings will serve as the basis for our
 discussion and written evaluations weekly. How has the popular cinema
 industry portrayed modern Latin American history? We will watch and
-analyze films from the United States, Mexico, Chile, Colombia, Brazil, and
+analyze films from the United States, Mexico, Peru, Bolivia,  and
 elsewhere that grapple with various aspects of the conundrum of the modern
 period.
 

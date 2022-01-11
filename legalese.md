@@ -4,14 +4,14 @@ title: syllabus
 ---
 
 
-Latin American History at the Movies  
+**Latin American History at the Movies**  
 Spring 2022  
 
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
 **Phone:** 974-9871  
 **Office:** 2627 Dunford Hall, 6th Floor  
-**Office Hours:** Wednesday 2:30-4:30, or by appointment
+**Office Hours:** Wednesday 2:00-4:00, or by appointment
 
 
 # About

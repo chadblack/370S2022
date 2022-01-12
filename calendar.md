@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: calendar
+image: /images/embrace.jpg
 ---
 
 1. week

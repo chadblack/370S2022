@@ -1,6 +1,7 @@
 ---
-layout: page
 title: assignments
+image: https://images.mubicdn.net/images/film/119021/cache-105124-1599079162/image-w1280.jpg
+layout: post
 ---
 
 1. week

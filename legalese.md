@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: syllabus
+image: /images/llorona.jpg
 ---
 
 
@@ -53,40 +54,6 @@ length the themes that go beyond the uninformed viewer’s interpretation of
 the film. If, however, you feel uncomfortable with these topics please
 come speak to me.
 
-# Readings
-
-This semester, I am not requiring you to purchase any books. All readings will
-be provided to the student electronically.
-
-# Films for Viewing
-
-We will watch eight feature-length films this semester, as well as other
-selections or shorts:
-
-1. *Que viva México* (1931/1979) -- Soviet Union/México.
-2. *Soy Cuba* (1964) -- Soviet Union/Cuba.
-3. *Cidade de Deus* (2002) -- Brazil.
-4. *Bus 174* (2002) -- Brazil.
-5. *The Violin* (2007) -- México.
-6. *Roma* (2018) -- México.
-7. *Birds of Passage* (2018) -- Colombia.
-8. *Ixcanul* (2015) -- Guatemala. 
-
-# Course Requirements
-
-Students are required to engage in this class. Learning is an interactive
-process, and requires active participation by all members of the class.
-Students need to read, write, and attend lecture in order to be successful in
-this class. The history of Latin America is being written as we
-speak in the quotidian actions of indigenous people, politicians, artists, and more.
-Likewise, history reverberates in the events of today, as well as their
-meanings. As part of this course, students are required to read news from Latin
-America. In addition to these weekly activities, there are a series of formal assignments. 
-
-
-These assignments are designed to contribute to the overall objectives of the
-semester, including both content-specific and skill-based goals. 
-
 # Course Objectives
 
 1. To read Latin American history, and use the information as a basis for
@@ -96,45 +63,62 @@ semester, including both content-specific and skill-based goals.
 3. To learn to synthesize a variety of sources, evaluate them, and
    articulate in written and oral form an argument.
 
-
-# Policies
-
-**Accommodations:** Qualified students with disabilities needing appropriate
-academic adjustments should contact me as soon as possible to ensure that your
-needs are met in a timely manner with appropriate documentation.
-
-__Attendance:__ Attendance at all class sessions is mandatory. If you will not be able to attend class, please contact me ahead of time.
-
-**Deadlines:**  Assignments must be turned in to the instructor or teaching
-assistant at the end of class on the day they are due, unless otherwise
-arranged by the professor. Late papers will not be accepted without **prior
-arrangement**, for any reason. This includes technology problems.
-
-**Cell Phones and Laptops:** Please silence our cell phones prior to class.
-Please do not text during class. Cell phones are not permitted in class, and
-need to be put away for the duration of our meetings. Laptops are allowed only
-for tasks related to this class. Distracting use of technology (social media,
-surfing, GroupMe chats, etc.) causes problems not only for your own learning, but for those
-around you. Research shows that analog notetaking improves learning. Consider
-having paper with you. Based on the prevailing literature, hand note-taking–
-both while reading and in class– leads to substantially better educational
-outcomes. You are not required to have a laptop in class, so feel free to leave
-it at home. If, however, you have reason to use your laptop for notetaking,
-I won’t stop you from doing so. 
-
-**Plagiarism and Academic Honesty:** Plagiarism occurs when someone knowingly
-or unknowingly presents another person’s words or ideas as his or her own. Any
-work turned in for this class must meet University standards for academic
-honesty. Any students unsure about how to apply these rules are urged to
-consult with me prior to turning in any written work. 
-
-**Office Hours:** Students are strongly encouraged to speak with me outside of class. The advantages of talking with me include: extra help on an assignment or preparation for an exam; clarification of materials covered in lecture, discussion of my comments on your work; discussion of this or related courses. I am available during office hours on a first-come, first-served basis; if you cannot come by during office hours, please contact me via email or phone and I will be happy to set up an appointment with you.
-
-**Changes:** I reserve the write to change this syllabus as the semester progresses. This is not a contract, but rather a document to guide expectations and clearly communicate weekly assignments. Please bring the syllabus with you to our class meetings. Or, keep up with it on the course website.
+# Policies 
 
 
+![](http://chadblack.net/511S2012/media/images/disability.png) Qualified
+students with disabilities needing appropriate academic adjustments should
+contact me as soon as possible to ensure that your needs are met in a timely
+manner with appropriate documentation.
+
+**Masks:** The University is currently encouraging students, faculty, and staff
+to mask indoors. We will comply with this. The Omicron variant of
+this virus is extremely contagious.  This turns the classroom into
+a potentially high-risk situation. Wearing a mask for 75 minutes indoors is
+a small price to pay to be back in University community.
+
+**Attendance:** Attendance is mandatory. If you cannot attend, please email
+Dr. Black or your TA ahead of time. We're not making an Inquisition into your
+absences, so the reasons you can't attend are not as important as giving us the
+heads up. If you have *any* symptoms or have been exposed to COVID, please do
+not come to class! Just send us a quick email, and get tested.
 
 
+**Deadlines:** Assignments must uploaded to Canvas by the end of the day on
+which they are due. Late papers will not be accepted with out **prior
+arrangement**. If you will not be able to complete an assignment on time, you
+must contact me and your TA ahead of time. If you contract COVID or some other
+illness, please let us know so that we can work with you.
 
+
+**Cell Phones, Laptops, Zoom:** Cellphones should be put away during class.
+Please do not text or post to the Group Me during class. It is very distracting
+to people around you, and to the professor. Laptops may be used to take notes,
+but I would ask you to seriously consider using paper instead. If you want or
+need to use a laptop, please consider sitting towards the back of the room so
+as to minimize distractions behind you. If we have to utilize Zoom at some
+point, please practice the kind of respectful manners that I'm sure you have
+become used to over the last 15 months. In class and on Zoom, I would invite
+you to interrupt me with questions during lecture.
+
+Research shows that analog note-taking improves learning. Consider having paper
+with you. Based on the prevailing literature, hand note-taking-- both while
+reading and in class-- leads to substantially better educational outcomes.
+Consider taking notes by hand even though you'll be watching on your computer.
+
+**Drop-in Hours**: Students are strongly encouraged to speak with me and the
+TAs outside of class. The advantages include: extra help on an assignment
+or preparation for exams; clarification of materials covered in lecture,
+discussion of comments on your work; discussion of this or related courses.
+I have an open door policy during my drop-in hours. I will be there, and you
+are welcome to come by for any reason. Your TAs have the same. I'm also
+available via zoom by appointment.
+
+**Changes:** I reserve the write to change this syllabus as the semester
+progresses. This is not a contract, but rather a document to guide expectations
+and clearly communicate weekly assignments. Please bring the syllabus with you
+to our class meetings. Or, keep up with it on the course website. We'll have to
+remain flexible as the outlook for our fourth pandemic semester is still
+uncertain. 
 
 

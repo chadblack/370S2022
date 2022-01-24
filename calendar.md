@@ -167,12 +167,9 @@ Read:
 **DUE:** Guatemala film paper. 
 
 
-## Week 12: Research Week
+## Week 12: Recharge.
 
-April 12 (Tuesday) Appointments
-
-Read: No readings  
-**Appointments with Dr. Black to discuss Final Projects.**
+April 12 (Tuesday) **Recharge your batteries for the final push.**
 
 April 14 (Thursday) **No Class**  
 

@@ -53,7 +53,7 @@ We will watch the following films this semester:
    discussions and lecture. All students must participate in discussions
    and as we dissect the films.
 
-2. **Reading Memos. (30%)**
+2. **Reading Memos. (25%)**
    
    Students will write weekly reaction papers or research memos each week.  
    Instructions for how to write a research memo are available
@@ -62,7 +62,7 @@ We will watch the following films this semester:
    night.
 
 
-3. **Film Papers. (30%)**
+3. **Film Papers. (60%)**
    
    After each pair of films, students will write a 4-6
    page paper critiquing the films using the provided readings. Each paper
@@ -77,9 +77,8 @@ We will watch the following films this semester:
    the primary or secondary readings at your disposal, and the content of
    our lectures and discussions.
 
-4. **Final Project. (25%)**
+**Extra credit opportunities:**  
 
-   For the final project, students will choose a pair of films or
-   a television series of their own, assemble a set of readings, and write
-   an evaluation patterned on our regular papers.
+1. Write up current events that connect to our films, themes, etc.  
+2. Extra film paper on a film of your choosing.
 

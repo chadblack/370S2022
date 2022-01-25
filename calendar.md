@@ -196,11 +196,12 @@ Read:
 
 March 31 (Thursday) Film Discussion.
 
-Read: None.
+Read:
+
+* Amanda Alfaro Córdoba, "Can Maria Speak? Interpreting *Ixcanul/Volcano* (2015) from a Decolonial Perspective," *Studies in Spanish and Latin American Cinema*.
 
 
-
-**DUE:** Research memo on .  
+**DUE:** Research memo on Grandin.
 
 ## Week 11: Guatemala III
 
@@ -210,16 +211,9 @@ April 5 (Tuesday)
 
 Read:  
 
-* Commission for Historical Clarification, "Acts of Genocide," *The Guatemala
-  Reader*.
+* Commission for Historical Clarification, "Acts of Genocide," *The Guatemala Reader*.
 
-* US State Department and Embassy in Guatemala, "We Cannot Confirm nor Deny,"
-  *The Guatemala Reader*.
-
-* Amanda Alfaro Córdoba, "Can Maria Speak? Interpreting *Ixcanul/Volcano*
-  (2015) from a Decolonial Perspective," *Studies in Spanish and Latin American
-  Cinema*.
-
+* US State Department and Embassy in Guatemala, "We Cannot Confirm nor Deny," *The Guatemala Reader*.
 
 April 7 (Thursday): Discussion of *La Llorona*.
 
